@@ -7,13 +7,13 @@ _Consultant and self-taught Data Scientist based in Rome, Italy_ <br>
 ## Prfessional Experience
 
 **Consultant in digital forensic** @ [EY](https://www.ey.com) _(May 2018 - Present)_ <br>
-- Implementation of a model for the calculation of the Impairment with Provision Matrix, and related
-archive management. 
-- Cross tecnology automation of Industrial cost calculation of a leading steel company.
-- Implementation of numerous KRI in a leading gaming company.
-- Developed an internal, small scale application project for the management of Data Capture activities, with in-app dashboarding 
+- Implementation of a model for the calculation of the Impairment with Provision Matrix, and related 
+archive management. <br>
+- Cross tecnology automation of Industrial cost calculation of a leading steel company. <br>
+- Implementation of numerous KRI in a leading gaming company. <br>
+- Developed an internal, small scale application project for the management of Data Capture activities, with in-app dashboarding. <br>
 - KRI creation and aggregation in dashboards for fraud monitoring, risk assessment and vendor
-rating.
+rating. <br>
 - Clustering and sampling for risk assessment.
 <br><br>
 
@@ -22,11 +22,11 @@ rating.
 ## Technical Skills
 
 
-_**Business Intelligence tools:**_ Tableau, PowerBI, Excel
-_**Databases:**_ SQL, MS Access, PostgreSQL
-_**Front end:**_ HTML5, CSS, Angular
-_**Back end:**_ Node.js, Python
-_**SDLC:**_
+_**Business Intelligence tools:**_ Tableau, PowerBI, Excel <br>
+_**Databases:**_ SQL, MS Access, PostgreSQL <br>
+_**Front end:**_ HTML5, CSS, Angular <br>
+_**Back end:**_ NodeJS, Python <br>
+_**SDLC:**_ Jira, Trello
   <br><br>
 
 ## Languages
