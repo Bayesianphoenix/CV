@@ -6,17 +6,55 @@ _Consultant and self-taught Data Scientist based in Rome, Italy_ <br>
 
 ## Professional Experience
 
-**Senior Consultant in digital forensics** @ [EY](https://www.ey.com) _(May 2018 - Present)_ <br>
-- Implementation of a model for the calculation of the Impairment with Provision Matrix, and related 
-archive management. <br>
-- Cross tecnology automation of Industrial cost calculation of a leading steel company. <br>
-- Implementation of numerous KRI in a leading gaming company. <br>
-- Developed an internal, small scale application project for the management of Data Capture activities, with in-app dashboarding. <br>
-- KRI creation and aggregation in dashboards for fraud monitoring, risk assessment and vendor
-rating. <br>
-- Clustering and sampling for risk assessment.
-<br><br>
+**Senior Consultant in digital forensics** @ [EY - Forensics](https://www.ey.com/en_it/forensic-integrity-services) _(May 2018 - Present)_ <br>
+**Projects Overview**
 
+*Vendor/Client Rating*
+_tecnologie utilizzate: Excel, SQL Server, Tablea_
+
+Allergan - Vendor rating con Internal risks, conflicts of interest, compliance risks, external sources
+ANAS - Vendor rating con analisi della categoria merceologica, analisi del comportamento in fase di gara e del comportamento in fase di esecuzione
+CONI - Vendor purchasing process con analisi dipendenza, transazioni anomale e frazionamento 
+ESPRINET - analisi transazioni, profilo reputazionale, link analysis, coerenza anagrafica
+
+
+*DataCapture*
+_tecnologie utilizzate:Excel,Vim,SQL Server, Monarch, Regex_
+
+Estrazione dati tramite tool interni
+ETL on SQL Server
+Elaboration of intermediate audit tables and integrity checks
+
+*Industrial Cost Automation*
+_tecnologie utilizzate: Excel,VBA,SQL Server_
+Automazione tramite VBA delle elaborazioni necessarie al calcolo del costo industriale.
+
+
+*Internal Marketplace*
+_tecnologie utilizzate: Node.js, Visual Studio, Git_
+Creazione di un sito interno per la gestione tramite ticket di servizi di assistenza audit
+
+
+*Financial Crimes Monitoring*
+_tecnologie utilizzate: SAS-Financial Crimes Monitor,Excel, Jira_
+Creazione di un gestionale per i KRI ed implementazione degli stessi su 8 verticali di gaming
+
+*Risk Assessment*
+_tecnologie utilizzate: Excel_
+Analisi delle procedure aziendali e interviste con gli owner delle attività atte ad individuare i rischi.
+valutazione delle controlli a copertura ed individuazione delle azioni rimediali.
+
+*Analysis of the Investments of an Insurance Company for Speculative Checks*
+_tecnologie utilizzate: Excel_
+Analisi delle varie tipologie di investimenti per una società di assicurazioni per assistere nelle richieste dell'istituto di vigilanza su possibili azioni speculative.
+
+*Audit Assistance for Risk Analysis*
+_tecnologie utilizzate: Excel, Tableau_
+Creazione di KRI e di dashbord per l'individuazioni di azioni anomale relative alle transazioni per una società delle comunicazioni.
+
+
+*Warehouse Analysis*
+_tecnologie utilizzate: Excel, SQL Server_
 
 
 ## Technical Skills
@@ -27,6 +65,13 @@ _**Databases:**_ SQL, MS Access, PostgreSQL <br>
 _**Front end:**_ HTML5, CSS, Angular <br>
 _**Back end:**_ NodeJS, Python <br>
 _**SDLC:**_ Jira, Trello
+  <br><br>
+  
+  
+## Soft Skills
+
+
+
   <br><br>
 
 ## Languages
