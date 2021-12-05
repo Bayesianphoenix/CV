@@ -7,14 +7,16 @@ _Consultant and self-taught Data Scientist based in Rome, Italy_ <br>
 ## Professional Experience
 
 **Senior Consultant in digital forensics** @ [EY - Forensics](https://www.ey.com/en_it/forensic-integrity-services) _(May 2018 - Present)_ <br>
-**Projects Overview**
 
-*Vendor/Client Rating*
+
+*Client/Vendor Rating*
 _tecnologie utilizzate: Excel, SQL Server, Tablea_
 
 Allergan - Vendor rating con Internal risks, conflicts of interest, compliance risks, external sources
 ANAS - Vendor rating con analisi della categoria merceologica, analisi del comportamento in fase di gara e del comportamento in fase di esecuzione
 CONI - Vendor purchasing process con analisi dipendenza, transazioni anomale e frazionamento 
+
+*Vendor Risk Analysis*
 ESPRINET - analisi transazioni, profilo reputazionale, link analysis, coerenza anagrafica
 
 
