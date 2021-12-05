@@ -4,9 +4,9 @@ _Consultant and self-taught Data Scientist based in Rome, Italy_ <br>
 
 [Email](mailto:gianmarco.stefanelli@hotmail.it) / [LinkedIn](https://www.linkedin.com/in/gianmarco-stefanelli/) / [GitHub](https://github.com/Bayesianphoenix/)
 
-## Prfessional Experience
+## Professional Experience
 
-**Consultant in digital forensic** @ [EY](https://www.ey.com) _(May 2018 - Present)_ <br>
+**Senior Consultant in digital forensics** @ [EY](https://www.ey.com) _(May 2018 - Present)_ <br>
 - Implementation of a model for the calculation of the Impairment with Provision Matrix, and related 
 archive management. <br>
 - Cross tecnology automation of Industrial cost calculation of a leading steel company. <br>
