@@ -19,12 +19,12 @@ _ Graduated in mathematics with years of experience in fraud detection and foren
 *Client/Vendor Rating*
 _tecnologie utilizzate: Excel, SQL Server, Tableau_
 
-Allergan - Vendor rating con Internal risks, conflicts of interest, compliance risks, external sources
-ANAS - Vendor rating con analisi della categoria merceologica, analisi del comportamento in fase di gara e del comportamento in fase di esecuzione
-CONI - Vendor purchasing process con analisi dipendenza, transazioni anomale e frazionamento 
+ Vendor rating con Internal risks, conflicts of interest, compliance risks, external sources
+- Vendor rating con analisi della categoria merceologica, analisi del comportamento in fase di gara e del comportamento in fase di esecuzione
+- Vendor purchasing process con analisi dipendenza, transazioni anomale e frazionamento 
 
 *Vendor Risk Analysis*
-ESPRINET - analisi transazioni, profilo reputazionale, link analysis, coerenza anagrafica
+- analisi transazioni, profilo reputazionale, link analysis, coerenza anagrafica
 
 
 *DataCapture*
